@@ -1,6 +1,7 @@
 # Hospital-Management-System
 DBMS (database management system) mini project using MySQL
-Technology used :
+
+# Technology used :
 phpmyadmin used for mysql database
 
 php used for backend
@@ -9,7 +10,7 @@ html5 | css | javascript | jquery | bootstrap4 for frontend
 
 Xampp server
 
-Guidline :
+# Guidline :
 step 1:- Install Xampp
 
 step 2:- Open Xampp folder and paste the whole project inside htdocs folder
